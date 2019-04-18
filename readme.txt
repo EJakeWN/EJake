@@ -1,1 +1,2 @@
-learn git
+learn gitgit 
+git for you 
