@@ -9,5 +9,6 @@ modified too
 modify
 
 create branch
-git@github.com:EJakeWN/EJake.git
+git@github.com:EJakeWN/EJake.gi
 8642525
+1231
